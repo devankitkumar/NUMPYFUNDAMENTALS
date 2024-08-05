@@ -1,4 +1,4 @@
-# NUMPYFUNDAMENTALS
+# NUMPY FUNDAMENTALS
 Purpose of This Repository
 The goal of this repository is to acquaint users with the Numpy and Pandas libraries, which are crucial Python tools for data analysis and manipulation. It is intended to help both newcomers to these libraries and seasoned users looking for a brief refresher on key ideas.
 
